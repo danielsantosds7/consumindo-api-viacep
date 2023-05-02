@@ -1,0 +1,4 @@
+is_global = true
+build_property.RefitInternalNamespace = MinhaApi
+build_property.RootNamespace = MinhaApi
+build_property.ProjectDir = /Users/daniel/Desktop/MinhaApi/MinhaApi/
